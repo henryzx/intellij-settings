@@ -96,12 +96,12 @@
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6d6d6d" />
+        <option name="FOREGROUND" value="9b9b9b" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6d6d6d" />
+        <option name="FOREGROUND" value="b9b9b9" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
