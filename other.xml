@@ -70,6 +70,6 @@
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="SvnApplicationSettings">
-    <option name="mySvnCommandLine" value="/usr/local/opt/subversion/bin/svn" />
+    <option name="mySvnCommandLine" value="/usr/local/bin/svn" />
   </component>
 </application>
